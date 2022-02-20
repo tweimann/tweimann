@@ -9,7 +9,7 @@
 - arch GNU/Linux btw
 - my code is bad, you don't have to tell me that
 
-<p align="lef"><img height="180p" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tweimann&theme=github_dark" alt="tweimann" align="center"/></p>
+![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tweimann&theme=github_dark)
 
 ### Operating Systems I like (no particular order)\*
 [<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"></code>](https://archlinux.org/donate/)
