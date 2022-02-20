@@ -23,11 +23,11 @@
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
 [<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.org/)
 [<code><img height="30" src="https://raw.githubusercontent.com/tweimann/tweimann/main/bash.png"></code>](https://www.gnu.org/software/bash/)
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
+[<code><img height="30" src="https://raw.githubusercontent.com/tweimann/tweimann/main/linux.png"></code>](https://www.linux.org/)
 [<code><img height="30" src="https://git-scm.com/favicon.ico"></code>](https://git-scm.com/)
 [<code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
 
-###### *\*I added a support link if possible. They aren't affiliate links and I won't get any commission off of your purchase/donation.*
+###### *\*I added a support link if possible. I won't get any commission off of your purchase/donation.*
 
 
 <!--
