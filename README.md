@@ -11,15 +11,7 @@
 
 <p align="lef"><img height="180p" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tweimann&theme=github_dark" alt="tweimann" align="center"/></p>
 
-### Languages / Tools
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.org/)
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>](https://www.gnu.org/software/bash/)
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
-[<code><img height="30" src="https://git-scm.com/favicon.ico"></code>](https://git-scm.com/)
-[<code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
-
-### Operating Systems I like (no particular order)
+### Operating Systems I like (no particular order)\*
 [<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"></code>](https://archlinux.org/donate/)
 [<code><img height="30" src="https://www.debian.org/logos/openlogo-nd.svg"></code>](https://www.debian.org/donations)
 [<code><img height="30" src="https://www.proxmox.com/templates/yoo_nano2/favicon.ico"></code>](https://www.proxmox.com/en/proxmox-ve/pricing)
@@ -27,8 +19,15 @@
 [<code><img height="30" src="https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png"></code>](https://ubuntu.com/download/desktop/thank-you)
 [<code><img height="30" src="https://www.truenas.com/wp-content/uploads/2020/08/cropped-TN-favicon-250x250.png"></code>](https://www.truenas.com/truenas-scale/)
 
-###### I added a support link if possible. They aren't affiliate links and I won't get any commission off of your purchase/donation.
+### Languages / Tools
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.org/)
+[<code><img height="30" src="https://raw.githubusercontent.com/tweimann/tweimann/main/bash.png"></code>](https://www.gnu.org/software/bash/)
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
+[<code><img height="30" src="https://git-scm.com/favicon.ico"></code>](https://git-scm.com/)
+[<code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
 
+###### *\*I added a support link if possible. They aren't affiliate links and I won't get any commission off of your purchase/donation.*
 
 
 <!--
