@@ -5,7 +5,7 @@
 - side projects: 
   - [unicks.eu video save](https://gist.github.com/69a7fd2f6446cf138883c342c0a894b1), email me if you can contribute
   - [helper](https://github.com/tweimann/helper)
-  - i run tor relays (tweinode1 & tweinode2, currently with about 220Mbit/s)
+  - [i run tor relays](https://metrics.torproject.org/rs.html#search/family:198ABDB49C8C41FFDF7A3E8D7CE7B185F5750353)
 - trying to learn C# (lie)
 - arch GNU/Linux btw
 - my code is bad, you don't have to tell me that
