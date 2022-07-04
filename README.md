@@ -6,8 +6,8 @@
   - [unicks.eu video save](https://gist.github.com/69a7fd2f6446cf138883c342c0a894b1), email me if you can contribute
   - [helper](https://github.com/tweimann/helper)
   - [i run tor relays](https://metrics.torproject.org/rs.html#search/family:198ABDB49C8C41FFDF7A3E8D7CE7B185F5750353)
-- trying to learn C# (lie)
-- arch GNU/Linux btw
+- trying to learn a couple of programming languages
+- Arch GNU/Linux btw
 - my code is bad, you don't have to tell me that
 
 ![github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tweimann&theme=github_dark)
